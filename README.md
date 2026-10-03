@@ -38,7 +38,7 @@ A **Adapti Code** é uma empresa de tecnologia de Anápolis - GO, especializada 
 * **Landing pages:** páginas de alta conversão, responsivas e prontas para SEO
 * **Sites institucionais:** presença profissional com design cuidado e SEO avançado
 * **E-commerces:** lojas sob medida com gateway de pagamento e gestão de estoque
-* **Apps personalizados:** iOS e Android com arquitetura moderna e escalável
+* **Apps personalizados:** iOS e Android com **React Native e Expo**, arquitetura moderna e escalável
 * **Plataformas SaaS e APIs:** sistemas multi-tenant, integrações e backend robusto
 
 ---
@@ -99,6 +99,7 @@ O **[Servix](https://www.servix.app.br)** é uma plataforma SaaS multi-tenant de
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 ### ☁️ Infra & ferramentas
