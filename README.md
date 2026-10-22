@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Smart. Flexible. Scalable.</b><br />
-  Transformando ideias em soluções digitais escaláveis e modernas.
+  Tecnologia inteligente. Soluções que evoluem.
 </p>
 
 <p align="center">
@@ -27,16 +27,18 @@
 
 ## 👋 Quem somos
 
-A **Adapti Code** é uma empresa de tecnologia de Anápolis - GO, especializada em **soluções digitais inteligentes, flexíveis e escaláveis**. Desenvolvemos plataformas SaaS, sistemas e aplicações web do zero, da ideia no papel até a aplicação em produção, com foco em performance, segurança e usabilidade.
+A **Adapti Code** é uma marca independente de tecnologia, de Anápolis - GO, dedicada ao desenvolvimento de **soluções digitais inteligentes, modernas e escaláveis**. Atuamos na criação de sistemas, aplicações e experiências digitais personalizadas, unindo tecnologia, criatividade e pensamento estratégico para transformar ideias em soluções funcionais, com foco em qualidade, eficiência, inovação e evolução contínua.
 
 > Acreditamos que tecnologia eficiente não é apenas aquela que funciona hoje, mas aquela que continua relevante amanhã.
+
+**Ideias transformadas em tecnologia.**
 
 ---
 
 ## 🧰 O que fazemos
 
-* **Landing pages:** páginas de alta conversão, responsivas e prontas para SEO
-* **Sites institucionais:** presença profissional com design cuidado e SEO avançado
+* **Landing pages:** páginas responsivas e prontas para SEO
+* **Sites institucionais:** presença profissional com design cuidado
 * **E-commerces:** lojas sob medida com gateway de pagamento e gestão de estoque
 * **Apps personalizados:** iOS e Android com **React Native e Expo**, arquitetura moderna e escalável
 * **Plataformas SaaS e APIs:** sistemas multi-tenant, integrações e backend robusto
@@ -126,3 +128,7 @@ Tem um projeto em mente? Fale com a gente pelo [WhatsApp](https://wa.me/55629915
 <p align="center">
   <i>Tecnologia que evolui com o seu negócio. 🚀</i>
 </p>
+
+---
+
+<sub>A Adapti Code é uma marca em desenvolvimento, atualmente administrada por seu titular como pessoa física. Os projetos e serviços são contratados diretamente com o responsável, conforme as condições acordadas entre as partes.</sub>
